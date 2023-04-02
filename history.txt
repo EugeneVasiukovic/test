@@ -1,0 +1,500 @@
+   22  git push
+   23  git checkout main
+   24  git pull
+   25  git fetch
+   26  git pull
+   27  cat names.txt
+   28  git checkout samsung_pay
+   29  git pull
+   30  cat names.txt
+   31  ls -ls
+   32  cd ..
+   33  git clone [200~$ mkdir
+   34  git clone https://github.com/EugeneVasiukovic/postman.git
+   35  mkdir Jmeter
+   36  mkdir Cheklist
+   37  mkdir bag_report
+   38  mkdir charles
+   39  mkdir Mobile_testing
+   40  git clone https://github.com/EugeneVasiukovic/SQL.git
+   41  git clone https://github.com/EugeneVasiukovic/Jmeter.git
+   42  git clone https://github.com/EugeneVasiukovic/CheckLists.git
+   43  git clone https://github.com/EugeneVasiukovic/Bag_Report.git
+   44  git clone https://github.com/EugeneVasiukovic/Bag_Reports.git
+   45  git clone https://github.com/EugeneVasiukovic/Charles.git 
+   46  git clone /github.com/EugeneVasiukovic/Charles.git
+   47  git clone https://github.com/EugeneVasiukovic/Mobile_testing.git
+   48  cd postman
+   49  git branch
+   50  git checkout postman
+   51  git branch postman
+   52  git checkout postman
+   53  git branch
+   54  > new.txt
+   55  git branch main
+   56  git merge postman
+   57  git status
+   58  git add . 
+   59  git commit -m "postman"
+   60  git push
+   61  git branch main
+   62  git checkout main
+   63  git add .
+   64  git commit -m "123"
+   65  git push
+   66  git chekout postman
+   67  git status
+   68  git push
+   69  git checkout postman
+   70  git status
+   71  git push
+   72  history >> history.txt
+   73  git push postman
+   74  git checkout main
+   75  git push main
+   76  git push --set main
+   77  git push -u origin postman
+   78  git push main
+   79  git push -u origin main
+   80  git status
+   81  git pull
+   82  cd ..
+   83  cd Bag_Reports
+   84  cd >> new.txt
+   85  fd
+   86  ls- la
+   87  ls-ls
+   88  ls -ls
+   89  cd D:\DIR\group_33\GitHub\Bag_Reports
+   90  git branch bag_reports
+   91  git checkout bag_reports
+   92  > bag_report.json
+   93  vim bag_report
+   94  git status
+   95  git add ..
+   96  git add .
+   97  git status
+   98   git commit -m "bag report"
+   99  git push -u origin bag_reports
+  100  git chekout main
+  101  git checkout main
+  102  git merge bag_reports
+  103  git status
+  104  cd ..
+  105  cd CheckLists
+  106  git branch chek_list
+  107  git checkout chek_;ist
+  108  git brench chek_list
+  109  git branch
+  110  git checkout chek_list
+  111  > chek_list
+  112  > chek_list.md
+  113  vim chek_list.md
+  114  git status
+  115  git add .
+  116  git commit -m "ferst commit"
+  117  git push -u origin chek_list
+  118  git checkout ьфшт
+  119  git checkout main
+  120  git merge chek_list
+  121  git status
+  122  cd ..
+  123  cd JSON
+  124  git pull
+  125  git pull
+  126  git pull
+  127  git clone https://github.com/EugeneVasiukovic/test.git
+  128  git clone https://github.com/EugeneVasiukovic/learning-english.git
+  129  cd lerning-english
+  130  cd learning-english
+  131  vim READMI.md
+  132  vim README.md
+  133  vim README.md
+  134  git add .
+  135  git commit -m "pronoun"
+  136  git push
+  137  git pell
+  138  git pull
+  139  git status
+  140  git add .
+  141  git commit -m "New history"
+  142  git push
+  143  git checkout main
+  144  git merge samsung_pay
+  145  git clone https://github.com/EugeneVasiukovic/Testing_theory.git
+  146  cd Testing_theory
+  147  > Client_server_architecture.md
+  148  git status
+  149  git add .
+  150  git  status
+  151  git commit -m "Client server"
+  152  git push
+  153  git add .
+  154  git commit -m "1st commit testing theory"
+  155  git push
+  156  get pull
+  157  git pull
+  158  git pull
+  159  git pull
+  160  get pull
+  161  git pu;;
+  162  git pull
+  163  git pull
+  164  git pull
+  165  git pull
+  166  git pull
+  167  git pull
+  168  git pull
+  169  hit pull
+  170  git pull
+  171  git pull
+  172  git pull
+  173  git pull
+  174  git pull
+  175  history
+  176  cd ..
+  177  cd..
+  178  cd ..
+  179  ls -ls
+  180  cd /GitHub
+  181  cd .
+  182  history >> history.txt
+  183  git status
+  184  git add .
+  185  git commit -m "Home Work 1st"
+  186  git push
+  187  fit add . 
+  188  git add . 
+  189  git commit -m "test "
+  190  git push
+  191  git add .
+  192  git commit -m "sendybird"
+  193  git push
+  194  vim README.md
+  195  cd ..
+  196  cd ..
+  197  mkdir dir_1
+  198  cd dir_1
+  199  mkdir inner_dir_1
+  200  pwd
+  201  > tf_1.txt
+  202  cat > tf_2.txt
+  203  cat tf_2.txt
+  204  cd inner_dir_1
+  205  cat > tf_3.txt
+  206  cat >> tf_3.txt
+  207  cat >> tf_3.txt
+  208  cat >> tf_3.txt
+  209  cat tf_3
+  210  cat tf_3.txt
+  211  cat >> /d/DIR/group_33/dir_1/tf_2.txt
+  212  cat >> tf_3.txt
+  213  cat >> /d/DIR/group_33/dir_1/tf_2.txt
+  214  cat > tf_4.txt
+  215  cat > tF5.txt
+  216  ls -la
+  217  cd ..
+  218  cat /d/DIR/group_33/dir_1/inner_dir_1/tf_3.txt
+  219  find pwd -name tf_4.txt
+  220  find -name tf_4.txt
+  221  realpath tf_4.txt
+  222  > tf_4.txt
+  223  echo -n >./inner_dir_1/tf_4.txt 
+  224  find -name "*tf*"
+  225  find -iname "*tf*"
+  226  grep "sec" *
+  227  grep -i "sec" *
+  228  grep -w "sec" *
+  229  grep -iw "sec" *
+  230  grep "second" *
+  231  grep -i "second" *
+  232  grep -r "second" 
+  233  grep "second" *
+  234  grep second *
+  235  grep second 
+  236  grep "second" .
+  237  grep "second" dir_1
+  238  grep "second" *
+  239  grep -l "second" *
+  240  grep -l "second" 
+  241  grep -l "second" .
+  242  grep -l "second" *
+  243  grep -lr "second" *
+  244  grep -lR "second" *
+  245  grep -le "second" *
+  246  grep -le "second" /d/DIR/group_33/dir_1
+  247  grep -l "second" /d/DIR/group_33/dir_1
+  248  grep  "second" /d/DIR/group_33/dir_1
+  249  grep -r "second" /d/DIR/group_33/dir_1
+  250  grep -lr "second" /d/DIR/group_33/dir_1
+  251  grep -l "second" /d/DIR/group_33/dir_1
+  252  grep -lR "second" /d/DIR/group_33/dir_1
+  253  grep -le "second" *
+  254  grep -le "second" /d/DIR/group_33/dir_1
+  255  grep -l -e -r "second" /d/DIR/group_33/dir_1
+  256  grep -l -e "second" *
+  257  grep -l -e -r "second" *
+  258  grep -lR "second" /d/DIR/group_33/dir_1
+  259  grep -lR "second" '/d/DIR/group_33/dir_1/'
+  260  grep -l "second" '/d/DIR/group_33/dir_1/'
+  261  grep -lrw "second" '/d/DIR/group_33/dir_1/'
+  262  grep -lrw -e "second" '/d/DIR/group_33/dir_1/'
+  263  grep -lr -e "second" '/d/DIR/group_33/dir_1/'
+  264  grep -lrv -e "second" '/d/DIR/group_33/dir_1/'
+  265  grep -lrv '/d/DIR/group_33/dir_1/' -e "second"
+  266  grep -l '/d/DIR/group_33/dir_1/' -e "second"
+  267  grep -l '/d/DIR/group_33/dir_1/'  "second"
+  268  grep -lr '/d/DIR/group_33/dir_1/' -e "second"
+  269  grep -lr * -e "second"
+  270  grep -lr /d/DIR/group_33/dir_1/ -e "second"
+  271  grep -lrv /d/DIR/group_33/dir_1/ -e "second"
+  272  tl -n4 tf_2.txt
+  273  tl n4 tf_2.txt
+  274  tail n4 tf_2.txt
+  275  tail -n4 tf_2.txt
+  276  tail -h4 tf_2.txt
+  277  tail -head4 tf_2.txt
+  278  tail head -n4 tf_2.txt
+  279  tail head -n5 tf_2.txt
+  280  tail head -n4 tf_2.txt
+  281  head -n4 tf_2.txt
+  282  mkdir dir_2; cd dir_2; cat > new.txt
+  283  cd ..; mv tf_2.txt dir_2
+  284  cd dir_2; cp tf_2.txt dir_1
+  285  cd dir_2; cp tf_2.txt /../dir_1/
+  286  cd dir_2; cp tf_2.txt /d/DIR/group_33/dir_1
+  287  cd ..
+  288  cd dir_2; cp tf_2.txt /d/DIR/group_33/dir_1
+  289  cd ..; grep -ir "sec" *; 
+  290  echo Good job
+  291   grep -ir "sec" * > /d/DIR/group_33/dir_1/321.txt
+  292  grep -lrIZ "sec" . | xargs -0 rm -f --
+  293  echo GOOD JOB
+  294  history
+  295  history >> history.txt
+  296  git pull
+  297  git pull
+  298  node -v
+  299  git pull
+  300  git status
+  301  git add.
+  302  git add .
+  303  git status
+  304  git commit -m "HW2"
+  305  git push
+  306  git pull
+  307  git status
+  308  git add .
+  309  git commit -m 'HW2_2'
+  310  got push
+  311  git push
+  312  git clone https://github.com/EugeneVasiukovic/techTaskPostman.git
+  313  cd techTaskPostman
+  314  git add .
+  315  git status
+  316  git status
+  317  git add .
+  318  git status
+  319  git commit -m "End Point 1,2,7,8"
+  320  git push
+  321  git branch endpoint36
+  322  git checkout emdpoint36
+  323  git checkout endpoint36
+  324  git status
+  325  git checkout main
+  326  git checkout endpoint36
+  327  ls -la
+  328  cd .
+  329  git add .
+  330  git checkout main
+  331  git status
+  332  git checkout endpoint36
+  333  git commit -m "end poinr 3,6"
+  334  git push
+  335  git push --set origin endpoint36
+  336  git checkout main
+  337  git push
+  338  git checkout endpoint36
+  339  git checkout main
+  340  ls -la
+  341  git checkout endpoint36
+  342  ls -la
+  343  git rm
+  344  git remove
+  345  git checkout main
+  346  git pull
+  347  git brach endpoint45
+  348  git branch endpoint45
+  349  git  status
+  350  git checkout endpoint45
+  351  git push --set origin endpoint45
+  352  git add .
+  353  git commit -m "endpoint 4,5"
+  354  git push
+  355  git checkout main
+  356  gut pull
+  357  git merge 
+  358  git pull
+  359  git checkout endpoint45
+  360  git checkout main
+  361  git checkout endpoint45
+  362  git pull
+  363  git pull
+  364  git checkout main
+  365  git clone https://github.com/EugeneVasiukovic/Js.git
+  366  cd Js
+  367  git add .
+  368  git status
+  369  git commit -m "HW one js"
+  370  git push
+  371  cd ..
+  372  cd postman
+  373  git pull
+  374  git status
+  375  git restore [200~group_33_HW2.postman_collection.json
+  376  git restore group_33_HW2.postman_collection.json
+  377  git status
+  378  git status
+  379  git add ..
+  380  git add .
+  381  git status
+  382  git commit -m "HW 3, 2 "
+  383  git push
+  384  git add .
+  385  git commit -m "hw 12"
+  386  git push
+  387  git pull
+  388  git branch main2
+  389  git checkout main2
+  390  git add .
+  391  git commit -m "test1"
+  392  git push -u origin main2
+  393  cat > 12332.txt
+  394  git add .
+  395  git commit -m "1"
+  396  git push 
+  397  git add .
+  398  git status
+  399  git commit -m "hw1"
+  400  git push
+  401  git add .
+  402  git commit -m "HW1"
+  403  git push
+  404  git commit -am 'create DDL DML'
+  405  git push
+  406  git commit -am 'create DDL DML'
+  407  git push
+  408  git commit -am 'create DDL DML'
+  409  git push
+  410  git commit -am 'create HW1'
+  411  git push
+  412  git status
+  413  git add .
+  414  git status
+  415  git commit -m 'HW1'
+  416  git push
+  417  git commit -am 'hw1'
+  418  git push
+  419  gut commit -am "Home work 2,3"
+  420  git commit -am "Home work 2,3"
+  421  git push
+  422  git pull
+  423  git status
+  424  git add .
+  425  git status
+  426  git push
+  427  git commit -m "Home work 2,3"
+  428  git push
+  429  git commit -am "HW2"
+  430  git push
+  431  ../js
+  432  pwd
+  433  ../js| xargs touh 123.txt
+  434  ../js| xargs touch 123.txt
+  435  git pull
+  436  git pull
+  437  git branch postman
+  438  git branch jmeter
+  439  git branch checkList
+  440  git cheakout main
+  441  git cheackout main
+  442  git checkout main
+  443  git branch bugReports
+  444  git branch sql
+  445  git branch charles
+  446  git branch mobiletesting
+  447  git status
+  448  git checkout mobiletesting
+  449  git add .
+  450  git commit -m "mobtest"
+  451  git push
+  452  git reset
+  453  git commit -m "mobtest"
+  454  git push
+  455  git checkout postman
+  456  git reset
+  457  git push
+  458  git add .
+  459  git commit -m "mobtest"
+  460  git push
+  461  git push -u origin postman
+  462  git checkout mobiltesting
+  463  git checkout mobiletesting
+  464  git push -u mobiletesting
+  465  git push -u origin mobiletesting
+  466  git checkout jmeter
+  467  git push -u origin jmeter
+  468  git checkout checklist
+  469  git push -u origin checklist
+  470  git checkout bugReports
+  471  git push -u origin bugReports
+  472  git checkout sql
+  473  git push -u origin sql
+  474  git checkout charles
+  475  git push -u origin charles
+  476  git checkout checkList
+  477  git push -u origin checklist
+  478  git push -u origin checklist
+  479  git push -u origin checkList
+  480  git checkout bugReports
+  481  git add .
+  482  git commit -m "structur bag report"
+  483  git push
+  484  git checkout main
+  485  git merge bugReports
+  486  git checkout checklists
+  487  git checkout checklist
+  488  git add .
+  489  git commit -m "structur checklist"
+  490  git push
+  491  git checkout checkList
+  492  git add .
+  493  git commit -m "structur checklist"
+  494  git push
+  495  git pull
+  496  git pull
+  497  git pull
+  498  git commit -am "HW3"
+  499  git push
+  500  git branch 123
+  501  git chekout 123
+  502  git checkout 123
+  503  git push -origin 123
+  504  git push
+  505  git add .
+  506  git commit -am '123'
+  507  git push -origin 123
+  508  git push -origin -set
+  509  git push 
+  510  git push  -upstream origin 123
+  511  git push origin 123
+  512  vim 123.txt
+  513  git add .
+  514  git commit -m '123'
+  515  git push
+  516  git push
+  517  git ststus
+  518  git status
+  519  git add 123
+  520  git push -u 
+  521  history >> history.txt
